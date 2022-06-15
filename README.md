@@ -1,5 +1,6 @@
 # WebsiteBanHang
- Đồ án kết thúc học phần môn: Lập Trình Web (PTITHCM)
+ + Đồ án kết thúc học phần môn: Lập Trình Web (PTITHCM)
+ + Võ Quàng Tường - N19DCCN185
 
 #Ngôn ngữ
   + Java Spring MVC 
